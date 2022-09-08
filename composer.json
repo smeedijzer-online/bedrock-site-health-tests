@@ -1,0 +1,13 @@
+{
+  "name": "smeedijzer-online/bedrock-site-health-tests",
+  "type": "wordpress-muplugin",
+  "license": "MIT",
+  "description": "Customizes status tests that conflict with the way Bedrock is structured.",
+  "homepage": "https://github.com/roots/bedrock/pull/647",
+  "keywords": [
+    "wordpress"
+  ],
+  "require": {
+    "php": ">=7.4"
+  }
+}
